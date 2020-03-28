@@ -1,0 +1,13 @@
+{
+  "scope": "getnerdify",
+  "env": {
+    "CONTENTFUL_ACCESS_TOKEN": "@contentful_access_token",
+    "CONTENTFUL_SPACE_ID": "@contentful_space_id"
+  },
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@now/node"
+    }
+  ]
+}
