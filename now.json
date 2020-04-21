@@ -1,5 +1,5 @@
 {
-  "scope": "getnerdify",
+  "scope": "hosmelq",
   "env": {
     "CONTENTFUL_ACCESS_TOKEN": "@contentful_access_token",
     "CONTENTFUL_SPACE_ID": "@contentful_space_id"
